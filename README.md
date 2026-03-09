@@ -4,6 +4,8 @@ This project builds and evaluates recommendation models using the Amazon product
 
 The analysis explores several recommendation approaches, including popularity-based methods, collaborative filtering, and matrix factorization, and compares their performance using standard recommendation metrics.
 
+---
+
 ## Objectives
 
 - Explore and clean the Amazon review dataset
@@ -11,6 +13,8 @@ The analysis explores several recommendation approaches, including popularity-ba
 - Implement matrix factorization using Singular Value Decomposition (SVD)
 - Evaluate models using recommendation system metrics
 - Generate predictions for unseen user–item pairs
+
+---
 
 ## Dataset
 
@@ -27,6 +31,8 @@ For computational purposes and to reduce sparsity and ensure meaningful recommen
 
 This filtering step improves model stability and reduces noise in the recommendation process.
 
+---
+
 ## Methods Used
 
 - Exploratory Data Analysis (EDA)
@@ -34,6 +40,8 @@ This filtering step improves model stability and reduces noise in the recommenda
 - Collaborative Filtering
 - Matrix Factorization using SVD
 - Model Evaluation (Precision@k, Recall@k, F1-score@k, RMSE)
+
+---
 
 ## Tools
 
@@ -44,8 +52,12 @@ This filtering step improves model stability and reduces noise in the recommenda
 - Matplotlib
 - Seaborn
 
+---
+
 ## Repository Content
-- **[Amazon Product Recommendation System Notebook](Amazon_Product_Recommendation_System.ipynb)**
+- **[Amazon Product Recommendation System Notebook](Amazon_Product_Recommendation_System.html)**
+
+---
 
 ## Future Work
 
