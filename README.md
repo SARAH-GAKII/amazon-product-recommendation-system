@@ -56,7 +56,7 @@ This filtering step improves model stability and reduces noise in the recommenda
 
 ## Repository Content
 - **[Amazon Product Recommendation System Notbook(pdf)](Amazon_Product_Recommendation_System.pdf)**
-- **[Amazon Product Recommendation System Notebook](Amazon_Product_Recommendation_System.html)**
+- **[Amazon Product Recommendation System Notebook (html)](Amazon_Product_Recommendation_System.html)**
 
 ---
 
